@@ -1,0 +1,27 @@
+# Reinforcement Learning Using Taxi cab example
+
+## Prerequisites
+
+Before proceeding with the installation, ensure that you have the following installed:
+
+- Windows 11
+
+## Installation
+
+### 1. Install Python
+
+Download the latest version of Python from the official website: (https://www.python.org/downloads/)
+
+During installation, make sure to check the box that says "Add Python to PATH."
+
+Open a command prompt to verify the installation:
+
+```bash
+python --version
+
+### 2. Install Jupyter Notebook
+
+pip install notebook - for installation
+
+jupyter notebook - To Open the notebook
+
