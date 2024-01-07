@@ -22,6 +22,3 @@ python --version
 ### 2. Install Jupyter Notebook
 
 pip install notebook - for installation
-
-jupyter notebook - To Open the notebook
-
