@@ -6,9 +6,13 @@ einforcement learning uses rewards and punishments as signals for positive and n
 Some key terms that describe the basic elements are given below:
 
 Environment — Physical world in which the agent operates
+
 State — Current situation of the agent
+
 Reward — Feedback from the environment
+
 Policy — Method to map agent’s state to actions
+
 Value — Future reward that an agent would receive by taking an action in a particular state
 
 ## Q Learning
